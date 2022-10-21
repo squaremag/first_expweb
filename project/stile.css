@@ -1,0 +1,29 @@
+a {
+    text-decoration: overline;
+}
+
+a {
+    color: orange;
+}
+
+b {
+    text-decoration: none;
+}
+
+b:hover {
+    color: gainsboro;
+}
+
+li {
+    list-style: none;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: center;
+}
+
+.menu ul li {
+    margin-right: 10px;
+}
+
